@@ -1,0 +1,22 @@
+{
+    "version": "4.3RC4",
+    "description": "Vietnamese input method.",
+    "homepage": "http://unikey.vn/vietnam/",
+    "architecture": {
+      "32bit": {
+        "url": "http://unikey.vn/download/201807/unikey43RC4-180714-win32.zip",
+        "hash": "930d8792166ad216db22701f5b5f407076817784c5d8ba1e3ff5383f77efadb4",
+      },
+      "64bit": {
+        "url": "http://unikey.vn/download/201807/unikey43RC4-180714-win64.zip",
+        "hash": "4a6a06ea7c3d9ca9603a54050f010a63be48ea90c7a5299f6d18ec1789c40c23",
+      },
+    },
+    "bin": "UniKeyNT.exe",
+    "shortcuts": [
+        [
+            "UniKeyNT.exe",
+            "UniKey"
+        ]
+    ]
+}

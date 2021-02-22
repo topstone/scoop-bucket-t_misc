@@ -1,0 +1,14 @@
+{
+    "version": "210101",
+    "description": "CODEC checker.",
+    "homepage": "https://kurohane.net/seisanbutu.html",
+    "url": "https://kurohane.net/archive/sinkulite_210101.zip",
+    "hash": "f4c9b7874f56da028404904a31ee154a679e9d8a24e6e46056997d175cb8ee04",
+    "bin": "SinkuLite.exe",
+    "shortcuts": [
+        [
+            "SinkuLite.exe",
+            "真空波動研 Lite"
+        ]
+    ]
+}

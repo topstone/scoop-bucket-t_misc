@@ -1,0 +1,25 @@
+{
+    "version": "2.0.10.1",
+    "description": "SQLite3 explorer",
+    "homepage": "http://www.eonet.ne.jp/~pup/software.html",
+    "architecture": {
+      "32bit": {
+        "url": "https://www.dropbox.com/s/l7slsrkg523fdlw/pupsqlite32_ver_2001001.zip?dl=1",
+        "hash": "6ebc4856a5ba93674b1d5aa36afe648724f8c08396a7ba4a02c5c55f6ee4bfbc",
+      },
+      "64bit": {
+        "url": "https://www.dropbox.com/s/osdjzws0hxp1h0d/pupsqlite64_ver_2001001.zip?dl=1",
+        "hash": "66dbbd4a47ece511d43dcb665fbaf690f24754fe590207fb52e4fe2514b4ef0c",
+      },
+    },
+    "depends": [
+        "sqlite",
+    ],
+    "bin": "PupSQLite.exe",
+    "shortcuts": [
+        [
+            "PupSQLite.exe",
+            "PupSQLite"
+        ]
+    ]
+}
