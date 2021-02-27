@@ -1,0 +1,7 @@
+{
+    "version": "2.3.1",
+    "description": "Powerful, free tools to manipulate PDF files.",
+    "homepage": "http://community.coherentpdf.com/",
+    "url": "https://github.com/coherentgraphics/cpdf-binaries/archive/v2.3.1.tar.gz",
+    "bin": "Windows/cpdf.exe",
+}

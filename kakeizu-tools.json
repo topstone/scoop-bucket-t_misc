@@ -1,0 +1,12 @@
+{
+    "version": "2.1.4",
+    "description": "Family tree tool.",
+    "homepage": "http://tadamatu0001.web.fc2.com/program/familytreetools/",
+    "url": "https://ftp.vector.co.jp/62/01/2781/FamilyTreeToolsFree_2_1_4.zip",
+    "shortcuts": [
+        [
+            "FamilyTreeToolsFree/FamilyTreeToolsFree.exe",
+            "家系図ツールズ"
+        ]
+    ]
+}
