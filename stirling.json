@@ -4,7 +4,6 @@
     "homepage": "https://www.vector.co.jp/soft/win95/util/se079072.html",
     "url": "https://ftp.vector.co.jp/10/71/2144/stir131.lzh",
     "hash": "bbe9fb3d9b076ecc68b8d015f6435a171847657d1cf521653b625dc93c74d1fa",
-    "bin": "Stirling.exe",
     "shortcuts": [
         [
             "Stirling.exe",

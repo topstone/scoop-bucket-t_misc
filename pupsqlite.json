@@ -15,7 +15,6 @@
     "depends": [
         "sqlite",
     ],
-    "bin": "PupSQLite.exe",
     "shortcuts": [
         [
             "PupSQLite.exe",
