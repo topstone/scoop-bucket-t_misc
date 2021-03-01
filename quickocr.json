@@ -1,0 +1,12 @@
+{
+    "version": "1.03",
+    "description": "OCR software.",
+    "homepage": "http://milyf.web.fc2.com/QuickOCR.html",
+    "url": "http://milyf.web.fc2.com/quickbin/v1.03/QuickOCR-v1.03.zip",
+    "shortcuts": [
+        [
+            "QuickOCR.exe",
+            "QuickOCR"
+        ]
+    ]
+}
