@@ -1,0 +1,14 @@
+{
+    "version": "2.8.9dev19TH",
+    "description": "CUI web browser.",
+    "homepage": "https://lynx-win32-pata.osdn.jp/index-ja.html",
+    "license": "GPL-2.0-only",
+    "url": "https://osdn.net/frs/redir.php?m=constant&f=lynx-win32-pata%2F68338%2FLynx289dev19THjp.zip",
+    "hash": "5820B7631C875A6B207239E7E7FDFEDFB08FF4D687B4223E060DB34FC982F9BD",
+    "shortcuts": [
+        [
+            "lynx.exe",
+            "Lynx",
+        ]
+    ]
+}
