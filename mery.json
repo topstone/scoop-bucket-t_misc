@@ -5,12 +5,12 @@
     "architecture": {
       "32bit": {
         "url": "https://ftp.vector.co.jp/70/19/2347/Mery-2.6.7.zip",
-        "hash": "ffcdf051cad4e28bdc1f2c4ac5c653015b8356ca1a0ba597eeb32f5068e2202b",
+        "hash": "ffcdf051cad4e28bdc1f2c4ac5c653015b8356ca1a0ba597eeb32f5068e2202b"
       },
       "64bit": {
         "url": "https://ftp.vector.co.jp/70/19/2347/Mery-x64-2.6.7.zip",
-        "hash": "bd6f24cb9ced6f29545ab6f3ef2de44babfa616546506178a9eaad0f99fcb220",
-      },
+        "hash": "bd6f24cb9ced6f29545ab6f3ef2de44babfa616546506178a9eaad0f99fcb220"
+      }
     },
     "shortcuts": [
         [
