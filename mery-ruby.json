@@ -9,7 +9,7 @@
     ],
     "installer": {
         "script": [
-            "Add ふりがな.js as Mery's macro."
+            "Add ふりがな.js as Mery\'s macro."
         ]
     }
 }
