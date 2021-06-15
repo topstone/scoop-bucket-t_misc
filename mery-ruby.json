@@ -1,8 +1,8 @@
 {
-    "version": "20191121",
+    "version": "20210615",
     "description": "Furigana macro for Mery.",
     "homepage": "https://github.com/kyukyunyorituryo/add_ruby",
-    "url": "https://raw.githubusercontent.com/kyukyunyorituryo/add_ruby/master/%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA.js#/furigana.js",
+    "url": "https://raw.githubusercontent.com/topstone/add_ruby/master/%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA.js#/furigana.js",
     "hash": "0831cbbfcf07fd9bbcc8b5420c5aad38de2cd6dc10997207003732fa9f2557f3",
     "depends": [
         "mery"
