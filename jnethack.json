@@ -1,0 +1,14 @@
+{
+    "version": "3.6.6-0.2",
+    "description": "Single player rogue-like videogame",
+    "homepage": "https://jnethack.osdn.jp/",
+    "url": "https://osdn.net/frs/redir.php?m=bfsu&f=jnethack%2F74756%2Fjnethack-3.6.6-0.2-win.zip#/jnethack-3.6.6-0.2-win.zip",
+    "hash": "37b7cbba17f8e01f161c932da368c9abd615a4b3032d4f89cb2c2c3c34f4ab11",
+    "bin": "JNetHack.exe",
+    "shortcuts": [
+        [
+            "JNetHack.exe",
+            "JNetHack"
+        ]
+    ]
+}
