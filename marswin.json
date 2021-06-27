@@ -1,9 +1,9 @@
 {
-    "version": "0.27",
+    "version": "0.29",
     "description": "A carfare calculator for JR.",
     "homepage": "https://www.swa785.net/pub/mars/index.html",
-    "url": "https://www.swa785.net/pub/mars/marsw027.zip",
-    "hash": "7dd04c0eaf71a54bc34259bbe90b2f5d256205bd3cb7f3be2b0ef3a54a178000",
+    "url": "https://www.swa785.net/pub/mars/marsw029.zip",
+    "hash": "cf6a56f3a46c1f70b56348b7bc59c5cfe423655ee484fc466715341c8473c1d1",
     "shortcuts": [
         [
             "MARSWin/marswin.exe",
