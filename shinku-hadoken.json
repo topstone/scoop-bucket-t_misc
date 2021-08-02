@@ -1,9 +1,9 @@
 {
-    "version": "210101",
+    "version": "210704",
     "description": "CODEC checker.",
     "homepage": "https://kurohane.net/seisanbutu.html",
-    "url": "https://kurohane.net/archive/sinkulite_210101.zip",
-    "hash": "f4c9b7874f56da028404904a31ee154a679e9d8a24e6e46056997d175cb8ee04",
+    "url": "https://kurohane.net/archive/sinkulite_210704.zip",
+    "hash": "414e1d792687efd92ba570984bfbe0e2b2fcabeb52cd500d138d6e0c0e5d8cd1",
     "shortcuts": [
         [
             "SinkuLite.exe",
