@@ -12,9 +12,10 @@
         "hash": "bd6f24cb9ced6f29545ab6f3ef2de44babfa616546506178a9eaad0f99fcb220"
       }
     },
+    "extract_dir": "Mery",
     "shortcuts": [
         [
-            "Mery/Mery.exe",
+            "Mery.exe",
             "Mery"
         ]
     ]
