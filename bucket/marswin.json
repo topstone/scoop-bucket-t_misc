@@ -4,9 +4,10 @@
     "homepage": "https://www.swa785.net/pub/mars/index.html",
     "url": "https://www.swa785.net/pub/mars/marsw029.zip",
     "hash": "cf6a56f3a46c1f70b56348b7bc59c5cfe423655ee484fc466715341c8473c1d1",
+    "extract_dir": "MARSWin",
     "shortcuts": [
         [
-            "MARSWin/marswin.exe",
+            "marswin.exe",
             "MARS for Windows"
         ]
     ]
