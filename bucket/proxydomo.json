@@ -5,7 +5,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/amate/Proxydomo/releases/download/v2.0/Proxydomo64_2.0.zip",
-            "hash": "b752056905e1d5db0f1d10572efae20035dad9e64744ce7e4125601dbab06fee",
+            "hash": "89b5e311b9fd01a3c51737636c216dab56a7b52261c02b565fd76ed5d5e17fa0",
             "extract_dir": "Proxydomo64",
             "shortcuts": [
                 [
