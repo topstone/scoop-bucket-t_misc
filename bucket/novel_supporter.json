@@ -9,7 +9,7 @@
       "32bit": {
         "shortcuts": [
           [
-            "NovelSupporter-win32-ia32\NovelSupporter.exe",
+            "NovelSupporter-win32-ia32\\NovelSupporter.exe",
             "Novel Supporter"
           ]
         ]
@@ -17,7 +17,7 @@
       "64bit": {
         "shortcuts": [
           [
-            "NovelSupporter-win32-x64\NovelSupporter.exe",
+            "NovelSupporter-win32-x64\\NovelSupporter.exe",
             "Novel Supporter"
           ]
         ]
