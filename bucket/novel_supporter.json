@@ -1,0 +1,26 @@
+{
+    "version": "1.7.0",
+    "description": "Improve on writing novels",
+    "homepage": "https://crocro.com/pc/soft/novel_supporter/",
+    "url": "https://crocro.com/pc/soft/novel_supporter/dl/novel_supporter_1.7.0.7z",
+    "hash": "9b7cbc30e264f1a4c22c228a60d09ef4f16d427dd5daa87b6f3e1d76b5b987ea",
+    "extract_dir": "novel_supporter_1.7.0",
+    "architecture": {
+      "32bit": {
+        "shortcuts": [
+          [
+            "NovelSupporter-win32-ia32\NovelSupporter.exe",
+            "Novel Supporter"
+          ]
+        ]
+      },
+      "64bit": {
+        "shortcuts": [
+          [
+            "NovelSupporter-win32-x64\NovelSupporter.exe",
+            "Novel Supporter"
+          ]
+        ]
+      }
+    }
+}
