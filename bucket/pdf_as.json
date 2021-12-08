@@ -1,0 +1,17 @@
+{
+    "version": "1.33",
+    "description": "To merge, split PDF files.",
+    "homepage": "http://uchijyu.s601.xrea.com/wordpress/pdf_as/",
+    "url": "https://ftp.vector.co.jp/73/02/3974/pdfas133.zip",
+    "hash": "f757a6e0b7475f2405e2290bc098d9bd91d5b951d5dca362f6fd40f3f252b074",
+    "shortcuts": [
+        [
+            "pdf_as.exe",
+            "pdf_as"
+        ],
+        [
+            "Office2Pdf.exe",
+            "pdf_as(Office2Pdf)"
+        ]
+    ]
+}
