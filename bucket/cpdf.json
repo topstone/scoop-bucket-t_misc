@@ -1,8 +1,16 @@
 {
-    "version": "2.4",
+    "version": "2.5.1",
     "description": "Powerful, free tools to manipulate PDF files.",
     "homepage": "https://community.coherentpdf.com/",
-    "url": "https://github.com/coherentgraphics/cpdf-binaries/archive/v2.4.tar.gz#/v2.4.tgz",
-    "hash": "f2b595ccf21ef44b75a2b32d32d609a263ca559c228a129d6f5cc087e375fb01",
-    "bin": "cpdf-binaries-2.4/Windows64bit/cpdf.exe"
+    "url": "https://github.com/coherentgraphics/cpdf-binaries/archive/refs/tags/v2.5.1.tar.gz#/v2.5.1.tgz",
+    "hash": "d6dea9050d055f90917afe75d244a7b7b6b6bb2f52da466bc06f3ead08a3e2d6",
+    "extract_dir": "cpdf-binaries-2.5.1",
+    "architecture": {
+      "32bit": {
+        "bin": "Windows64bit/cpdf.exe"
+      },
+      "64bit": {
+        "bin": "Windows32bit/cpdf.exe"
+      }
+    }
 }
