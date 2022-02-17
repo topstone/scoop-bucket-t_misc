@@ -1,0 +1,13 @@
+{
+    "version": "0.70",
+    "description": "Change Timestamp.",
+    "homepage": "https://dns-plus.net/ctime.html",
+    "url": "https://dns-plus.net/download/ctime070.zip",
+    "hash": "41b5827e15e23b6a3731875951af20442c81b0d993d3eac22074229958606db1",
+    "shortcuts": [
+        [
+            "ctime.exe",
+            "Change Timestamp"
+        ]
+    ]
+}
