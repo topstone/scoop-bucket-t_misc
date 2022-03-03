@@ -1,0 +1,15 @@
+{
+    "version": "220220",
+    "description": "Fork of DOSVAX, an Intel x86-based PC emulator with Japanese keyboard.",
+    "homepage": "https://www.nanshiki.co.jp/software/dosvaxj3.html",
+    "license": "GPL-2.0-or-later",
+    "url": "https://www.nanshiki.co.jp/free/dosvaxj3jp220220.zip",
+    "hash": "d0131a4e3cf684fa77df08d6c600faea67d2688f346ac79644cfb26aa76481cd",
+    "shortcuts": [
+        [
+            "dosboxj.exe",
+            "DOSVAXJ3"
+        ]
+    ],
+    "persist": "dosboxj.conf"
+}
