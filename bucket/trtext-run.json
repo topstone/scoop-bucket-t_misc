@@ -1,0 +1,14 @@
+{
+    "version": "5.19",
+    "description": "TRTEXT runner with DOSVAXJ3.",
+    "homepage": "https://github.com/topstone/trtext-run",
+    "url": "https://github.com/topstone/trtext-run/releases/download/v5.19/trtext-run-5.19.7z",
+    "hash": "0ccb53364d5009217466c3da5041a73c6064e0b0afd4dcf34f168fcf77bbfbcb",
+    "depends": "trtext",
+    "shortcuts": [
+        [
+            "trtext-run.bat",
+            "TRTEXT run"
+        ]
+    ]
+}
