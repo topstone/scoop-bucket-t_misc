@@ -1,9 +1,9 @@
 {
-    "version": "3.Beta.04b",
+    "version": "3.Beta.04c",
     "description": "a free software for quantitative content analysis or text mining.",
     "homepage": "https://khcoder.net/",
-    "url": "https://github.com/ko-ichi-h/khc/releases/download/3.Beta.04b/khcoder-3b04b.exe#/khcoder-3b04b.zip",
-    "hash": "41cd0405fe582b377083dbbefaca1c98c5a3a2a99da42b778d7aa6529363284f",
+    "url": "https://github.com/ko-ichi-h/khc/releases/download/3.Beta.04c/khcoder-3b04c.exe#/khcoder-3b04c.zip",
+    "hash": "057afe09e375d5eacd0d485d7197f26246b2c8b940e896025455652e7e5bed3f",
     "license": "GPL-2.0-or-later",
     "shortcuts": [
         [
