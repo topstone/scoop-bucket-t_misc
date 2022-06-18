@@ -1,10 +1,10 @@
 {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "description": "Improve on writing novels",
     "homepage": "https://crocro.com/pc/soft/novel_supporter/",
-    "url": "https://crocro.com/pc/soft/novel_supporter/dl/novel_supporter_1.8.0.7z",
-    "hash": "1c6141e304c2ad9c270a4e0dcd2796a05b88e8aa99f932535f347e807f419c36",
-    "extract_dir": "novel_supporter_1.8.0",
+    "url": "https://github.com/masakazu-yanai/novel-supporter/releases/download/v1.8.1/novel_supporter_1.8.1.zip",
+    "hash": "6bcd55c50187632f2eea56a087c955b2b7d027c65fdebc2e126b0ccb7cffb201",
+    "extract_dir": "novel_supporter_1.8.1",
     "architecture": {
       "32bit": {
         "shortcuts": [
