@@ -11,12 +11,5 @@
             "ttermpro.exe",
             "Tera Term 5"
         ]
-    ],
-    "persist": [
-        "cygterm.cfg",
-        "KEYBOARD.CNF",
-        "ttpmenu.ini",
-        "ssh_known_hosts",
-        "TERATERM.INI"
     ]
 }
