@@ -1,16 +1,16 @@
 {
-    "version": "3.39.0",
+    "version": "3.39.1",
     "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
     "homepage": "https://www.sqlite.org/",
     "license": "blessing",
     "architecture": {
-      "32bit": {
-        "url": "https://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip",
-        "hash": "bae32df8fa24a3e55bcc1591e09918259173f870090e2ae775509edb8b893eb4"
-      },
-      "64bit": {
-        "url": "https://www.sqlite.org/2022/sqlite-dll-win64-x64-3390000.zip",
-        "hash": "c8b150f7a543f07974bd558c5ceac3f51923285c48fb924f96884eff6e9f30e0"
-      }
+        "32bit": {
+            "url": "https://www.sqlite.org/2022/sqlite-dll-win32-x86-3390100.zip",
+            "hash": "de439f0b1faa28a90d9f30fba411c94368fce9ec8d1e902f1092382110ac7f61"
+        },
+        "64bit": {
+            "url": "https://www.sqlite.org/2022/sqlite-dll-win64-x64-3390100.zip",
+            "hash": "195b13b4c229fae0cf2ac9ef658d7077d938d54c5b7dfa4bef30f1fd94ca44af"
+        }
     }
 }
