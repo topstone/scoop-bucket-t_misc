@@ -1,10 +1,10 @@
 {
-    "version": "1.0.93",
+    "version": "1.0.97",
     "description": "Programming Environment.",
     "homepage": "https://programmingzemi.com/",
-    "url": "https://prozemi-web.cdn-dena.com/dldata/1.0.93/ProgrammingWin32_20220208-ef73888bd.zip",
-    "hash": "ab3666887d643c8502e0a8ae8349b78f76bf50ae99ba37022536b43ddd61dcd1",
-    "extract_dir": "ProgrammingWin32_20220208-ef73888bd",
+    "url": "https://prozemi-web.cdn-dena.com/dldata/1.0.97/ProgrammingWin32_20220601-c563b95f4.zip",
+    "hash": "3f4ea4cad6c97393ee7af78e271648c0811baf8af1c7d9249e871d008beb9383",
+    "extract_dir": "ProgrammingWin32_20220601-c563b95f4",
     "shortcuts": [
         [
             "Programming.exe",
