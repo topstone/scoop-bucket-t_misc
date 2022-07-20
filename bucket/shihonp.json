@@ -1,0 +1,13 @@
+{
+    "version": "8.0.1",
+    "description": "Book manager.",
+    "homepage": "http://ekakin.la.coocan.jp/shihonp.htm",
+    "url": "http://ekakin.la.coocan.jp/download/shihonpv801.zip",
+    "hash": "51cb40b7c2087e3560ebd66c0669ea36be5cfb0cace52d3435f2a8ea94ab8f86",
+    "shortcuts": [
+        [
+            "shihon.exe",
+            "私本管理Plus"
+        ]
+    ]
+}
