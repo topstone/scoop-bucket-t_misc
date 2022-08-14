@@ -19,5 +19,6 @@
             "NeeView.exe",
             "NeeView"
         ]
-    ]
+    ],
+    "persist": "UserSetting.json"
 }
