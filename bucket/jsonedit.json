@@ -1,0 +1,13 @@
+{
+    "version": "0.10.0.4",
+    "description": "JSON editor (UTF-8).",
+    "homepage": "http://tomeko.net/software/JSONedit/",
+    "url": "http://tomeko.net/software/JSONedit/bin/JSONedit_0_10_0_4.zip",
+    "hash": "f8bfc8e8cf8cbc78166de8744bc399a9eff2ce62830b84249f4ecce15bd452e3",
+    "shortcuts": [
+        [
+            "JSONedit.exe",
+            "JSONedit"
+        ]
+    ]
+}
