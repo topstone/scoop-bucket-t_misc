@@ -62,10 +62,6 @@
             "MinGW64"
         ],
         [
-            "clang32.exe",
-            "Clang32"
-        ],
-        [
             "clang64.exe",
             "Clang64"
         ],
