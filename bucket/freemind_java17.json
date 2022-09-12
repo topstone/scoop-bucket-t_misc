@@ -1,9 +1,9 @@
 {
-    "version": "1",
+    "version": "2",
     "description": "Batch file to start FreeMind with Java17.",
     "homepage": "https://gist.github.com/topstone/ace6f2a0663f69957e1f3a339835d871",
-    "url": "https://gist.github.com/topstone/ace6f2a0663f69957e1f3a339835d871/raw/f280ad24c335f3c2190c7238c8986863fe026ed5/freemind_java17.bat",
-    "hash": "b119e13d5029a51aab269e44446db2d1993e5992116ca81e995982142bca8ebb",
+    "url": "https://gist.github.com/topstone/ace6f2a0663f69957e1f3a339835d871/raw/81f1cbf7e636b3e55c8c6875ec0dcefb959cdf8d/freemind_java17.bat",
+    "hash": "feb2798b77cddd4fda5d330feb2a2f88cb2881825c65a301956df9aa3d4ff981",
     "depends": [
         "openjdk17",
         "freemind"
