@@ -7,10 +7,10 @@
     "extract_dir": "cpdf-binaries-2.5.1",
     "architecture": {
       "32bit": {
-        "bin": "Windows64bit/cpdf.exe"
+        "bin": "Windows32bit/cpdf.exe"
       },
       "64bit": {
-        "bin": "Windows32bit/cpdf.exe"
+        "bin": "Windows64bit/cpdf.exe"
       }
     }
 }
