@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "description": "Sharpen corners of windows.",
+    "homepage": "http://suwa.pupu.jp/CornerSharpness.html",
+    "url": "http://suwa.pupu.jp/dlcount/dlcount.cgi?f=19_1#/CornerSharpness_v10.zip",
+    "hash": "c27e6ba03b2bb53b2d7723365b76ef596a215b78e8a52617e8c0a71f629afd2d",
+    "extract_dir": "CornerSharpness",
+    "shortcuts": [
+        [
+            "CornerSharpness.exe",
+            "Corner Sharpness"
+        ]
+    ]
+}
