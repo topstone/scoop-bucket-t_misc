@@ -1,0 +1,15 @@
+{
+    "version": "5.0-alpha1-r10385",
+    "description": "Terminal emulator for ssh/telnet/serial connection.",
+    "homepage": "https://osdn.net/projects/ttssh2/",
+    "license": "BSD-3-Clause",
+    "url": "https://ja.osdn.net/frs/redir.php?m=nchc&f=%2Fstorage%2Fg%2Ft%2Ftt%2Fttssh2%2Fsnapshot%2Fteraterm-5.0-alpha1-r10385-20221127-appveyor.zip#/teraterm5a_r10385.zip",
+    "hash": "d5bfde9a9b50710e6666345986029fe3632c39b98c8c771f52dabf0f3eba5bd1",
+    "extract_dir": "teraterm-5.0-alpha1-r10385-20221127_131927-appveyor-snapshot",
+    "shortcuts": [
+        [
+            "ttermpro.exe",
+            "Tera Term 5 r10385"
+        ]
+    ]
+}
