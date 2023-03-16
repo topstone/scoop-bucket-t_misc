@@ -19,7 +19,7 @@
         "echo ********",
         "ridk install",
         "gem install narou",
-        "$narouq = scoop prefix narouqt",
+        "$narouq = scoop prefix narouq",
         "gem install ${narouq}/narouq-3.8.2.q1.gem --local",
         "$aozora = scoop prefix aozoraepub3q",
         "narouq init --line-height 1.9 --path ${aozora}"
