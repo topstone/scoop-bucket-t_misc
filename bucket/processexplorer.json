@@ -1,9 +1,9 @@
 {
-    "version": "17.02",
+    "version": "17.04",
     "description": "Showing information about which handles and DLLs processes have opened or loaded.",
     "homepage": "https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer",
     "url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
-    "hash": "50e04af2ab5e5882ef95b7ba257e6576ad13dba300fe1234228d9384a9f90964",
+    "hash": "9a5bc19e03fcc785f8ae322593e5aae9b287e9a891dc999689708761fc70aa0b",
     "shortcuts": [
         [
             "procexp.exe",
