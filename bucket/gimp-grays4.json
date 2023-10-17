@@ -12,5 +12,6 @@
             "Push-Location -Path $dir",
             "Copy-Item \"Grays4.gpl\" -Destination \"../../gimp/current/share/gimp/2.0/palettes\"",
             "Pop-Location"
+        ]
     }
 }
