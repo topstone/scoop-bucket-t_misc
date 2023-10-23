@@ -1,0 +1,21 @@
+{
+    "version": "2.28.6",
+    "description": "A Terminal software",
+    "homepage": "https://github.com/kmiya-culti/RLogin",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kmiya-culti/RLogin/files/12778422/rlogin_x32.zip",
+            "hash": "af7026a68132ea6fb4c20c7b8ad27c998fcf0f104e9f0c853b59be3f0f5588e4"
+        },
+        "64bit": {
+            "url": "https://github.com/kmiya-culti/RLogin/files/12778423/rlogin_x64.zip",
+            "hash": "af480cb1a0c266eaac9f393074d7db0eb6e92417ee5a179d4dc7dc99479070b9"
+        }
+    },
+    "shortcuts": [
+        [
+            "RLogin.exe",
+            "RLogin"
+        ]
+    ]
+}
