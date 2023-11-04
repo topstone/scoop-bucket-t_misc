@@ -17,5 +17,6 @@
             "RLogin.exe",
             "RLogin"
         ]
-    ]
+    ],
+    "checkver": "github"
 }

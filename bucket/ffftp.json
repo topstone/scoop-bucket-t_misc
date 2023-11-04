@@ -17,5 +17,6 @@
             "ffftp.exe",
             "FFFTP"
         ]
-    ]
+    ],
+    "checkver": "github"
 }

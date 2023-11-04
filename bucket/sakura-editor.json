@@ -9,5 +9,8 @@
             "sakura.exe",
             "Sakura Editor"
         ]
-    ]
+    ],
+    "checkver": {
+        "github": "https://github.com/sakura-editor/sakura"
+    }
 }
