@@ -9,5 +9,9 @@
             "ctime.exe",
             "Change Timestamp"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://dns-plus.net/ctime.html",
+        "regex": "<b class=\"new\">Ver([\\d\\.]+)</b> \\[ <a href=\"\\./download/ctime[\\d]+\\.zip\">ctime[\\d]+\\.zip</a> \\]<br>"
+    }
 }

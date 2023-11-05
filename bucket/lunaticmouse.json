@@ -10,5 +10,9 @@
             "Luna.exe",
             "Lunatic Mouse"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://cosmic-voyager.com/lunamouse/",
+        "regex": "<p>ver ([\\d\\.]+) \\([\\d/]+\\)</p>"
+    }
 }

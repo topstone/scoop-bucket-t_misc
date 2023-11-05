@@ -18,5 +18,9 @@
             "Mery.exe",
             "Mery"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://www.vector.co.jp/soft/dl/winnt/writing/se476839.html",
+        "regex": "<span class=\"version\">([\\d\\.]+)</span>"
+    }
 }

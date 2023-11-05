@@ -16,7 +16,7 @@
     },
     "checkver": {
         "url": "https://github.com/coherentgraphics/cpdf-binaries/tags",
-        "regex": "\\/releases\\/tag\\/(?:v|V)?([\\d.]+)"
+        "regex": "\\/releases\\/tag\\/(?:v|V)?([\\d\\.]+)"
     }
 }
 

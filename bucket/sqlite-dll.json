@@ -12,5 +12,9 @@
             "url": "https://www.sqlite.org/2023/sqlite-dll-win64-x64-3430200.zip",
             "hash": "fa8981f39524f25fcc546c45a87ff4c1eefd81fdc22f55a9bbe249155cdaf62e"
         }
+    },
+    "checkver": {
+        "url": "https://www.sqlite.org/index.html",
+        "regex": "<a href=\"releaselog/[\\d_]+\\.html\">Version ([\\d\\.]+)</a> \\([\\d\\-]+\\)\\."
     }
 }

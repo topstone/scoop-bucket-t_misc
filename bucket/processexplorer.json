@@ -9,5 +9,9 @@
             "procexp.exe",
             "Process Explorer"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer",
+        "regex": "<h1 id=\"process-explorer-v[\\d]+\">Process Explorer v([\\d\\.]+)</h1>"
+    }
 }

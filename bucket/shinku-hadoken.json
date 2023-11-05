@@ -9,5 +9,9 @@
             "SinkuLite.exe",
             "真空波動研 Lite"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://kurohane.net/seisanbutu.html",
+        "regex": "<TH WIDTH=\"58%\" ALIGN=\"left\">真空波動研Lite ([\\d]+)</TH>"
+    }
 }

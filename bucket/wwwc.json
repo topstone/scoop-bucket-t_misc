@@ -9,5 +9,9 @@
             "WWWC.exe",
             "WWWC"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://nakka.com/wwwc/",
+        "regex": "<B>WWWC Ver ([\\d\\.]+)</B> \\([\\d/]+\\)<BR>"
+    }
 }

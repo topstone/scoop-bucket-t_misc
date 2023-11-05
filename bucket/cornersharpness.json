@@ -14,5 +14,9 @@
             "CornerSharpness.exe",
             "Corner Sharpness"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://suwa.pupu.jp/CornerSharpness.html",
+        "regex": "<font size=\"2\">バージョン([\\d\\.]+)　\\([\\d]+KB\\)</font></strong></a>"
+    }
 }

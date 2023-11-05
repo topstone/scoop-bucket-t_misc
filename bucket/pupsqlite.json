@@ -20,5 +20,9 @@
             "PupSQLite.exe",
             "PupSQLite"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://www.eonet.ne.jp/~pup/software.html",
+        "regex": "<span class=\"version\">ver ([\\d\\.]+)<span></h3>"
+    }
 }

@@ -17,5 +17,9 @@
             "BunBackup.exe",
             "BunBackup"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "http://nagatsuki.la.coocan.jp/bunbackup/download.htm",
+        "regex": "<B>BunBackup Ver\\.([\\d\\.]+)</B><BR>"
+    }
 }

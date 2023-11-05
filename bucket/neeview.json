@@ -19,5 +19,9 @@
             "NeeView.exe",
             "NeeView"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://www.vector.co.jp/soft/dl/winnt/art/se512262.html",
+        "regex": "<span class=\"version\">([\\d\\.]+)</span>"
+    }
 }

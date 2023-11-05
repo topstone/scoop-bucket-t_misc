@@ -10,5 +10,9 @@
             "Programming.exe",
             "プログラミング ゼミ"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://programmingzemi.com/download_pc.html",
+        "regex": "<a class=\"btn-download\" href=\"https://prozemi-web\\.cdn-dena\\.com/dldata/([\\d\\.]+)/ProgrammingWin32_[\\d]+\\-[a-f\\d]+\\.zip\" onClick"
+    }
 }
