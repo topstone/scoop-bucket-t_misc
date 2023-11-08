@@ -2,8 +2,12 @@
     "version": "2-3-4-135",
     "description": "Cursor follower.",
     "homepage": "http://www.orangemaker.sakura.ne.jp/product/Kokomite/download.html",
-    "url": "http://www.orangemaker.sakura.ne.jp/download/Kokomite/Kokomite2-3-4-135.zip",
-    "hash": "f4d9c09169de84c3fb17b365aead86dfbd9b2b2aa3b45dee9be53320eec962ee",
+    "architecture": {
+        "64bit": {
+            "url": "http://www.orangemaker.sakura.ne.jp/download/Kokomite/Kokomite2-3-4-135.zip",
+            "hash": "f4d9c09169de84c3fb17b365aead86dfbd9b2b2aa3b45dee9be53320eec962ee",
+        },
+    },
     "extract_dir": "Kokomite2-3-4-135/Kokomite",
     "shortcuts": [
         [
