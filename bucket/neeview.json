@@ -1,17 +1,17 @@
 {
-    "version": "39.5",
+    "version": "40.2",
     "description": "Image viewer",
     "homepage": "https://www.vector.co.jp/soft/winnt/art/se512262.html",
     "architecture": {
         "32bit": {
-            "url": "https://ftp.vector.co.jp/75/32/2779/NeeView39.5-x86.zip",
+            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView39.5-x86.zip",
             "hash": "2994cde545f503717f1d4bd116e7c044c479f4f23ee56b4b12ab61727e150c36",
             "extract_dir": "NeeView39.5-x86"
         },
         "64bit": {
-            "url": "https://ftp.vector.co.jp/75/32/2779/NeeView39.5-x64.zip",
+            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView40.2-fd.zip",
             "hash": "5117abdb7b5c3537680ff7f8fd652dc32577c81c697e1daea93c0cbfb775be80",
-            "extract_dir": "NeeView39.5-x64"
+            "extract_dir": "NeeView40.2-x64-fd"
         }
     },
     "shortcuts": [
