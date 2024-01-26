@@ -4,7 +4,6 @@
     "homepage": "https://github.com/kyukyunyorituryo/AozoraEpub3",
     "url": "https://github.com/kyukyunyorituryo/AozoraEpub3/releases/download/v1.1.1b20Q/AozoraEpub3-1.1.1b20Q.zip",
     "hash": "887f1c6925dcfc3d5aa023a828c48c70da09c2b19ffa03b7fda9d154bccb6ad9",
-    "extract_dir": "AozoraEpub3-1.1.1b20Q",
     "checkver": {
         "github": "https://github.com/kyukyunyorituryo/AozoraEpub3",
         "regex": "\\/releases\\/tag\\/(?:v|V)?([\\d\\.]+b[\\d]+Q)"
