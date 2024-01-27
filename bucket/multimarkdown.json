@@ -16,6 +16,6 @@
         "bin\\multimarkdown.exe"
     ],
     "checkver": {
-        "github": "https://github.com/fletcher/MultiMarkdown-6",
+        "github": "https://github.com/fletcher/MultiMarkdown-6"
     }
 }
