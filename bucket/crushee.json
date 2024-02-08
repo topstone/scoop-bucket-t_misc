@@ -16,6 +16,6 @@
     },
     "checkver": {
         "url": "https://softaro.net/crushee/",
-        "regex": "crossorigin><title>Crushee ([\\d\\.]+) | ダウンロードと使い方 | ソフタロウ</title>"
+        "regex": "<title>Crushee ([\\d\\.]+) | ダウンロードと使い方 | ソフタロウ</title>"
     }
 }
