@@ -1,6 +1,6 @@
 {
-    "version": "2.6.1",
-    "description": "Powerful, free tools to manipulate PDF files.",
+    "version": "2.7.0",
+    "description": "Powerful, free tools to manipulate PDF files. (Non-Commercial Use License)",
     "homepage": "https://community.coherentpdf.com/",
     "architecture": {
         "32bit": {
@@ -10,10 +10,14 @@
         },
         "64bit": {
             "url": "https://github.com/coherentgraphics/cpdf-binaries/raw/master/Windows64bit/cpdf.exe",
-            "hash": "94a878b512335e9615f6c228e46153ce9fa03ec9645638bbf583c402d385cf54",
+            "hash": "sha256:631a8814ec98efff32c398bc18f1293c525d3b8a5632fcbe1f8f317dd0bebff90884728999b6b1afde97209ca21ae31aaca0fc09fa42a2e837a1d53a9037872b",
             "bin": "cpdf.exe"
         }
     },
+    "notes": [
+        "Under Non-Commercial Use License",
+        "(https://www.coherentpdf.com/ for commercial use.)"
+    ],
     "checkver": {
         "url": "https://github.com/coherentgraphics/cpdf-binaries/tags",
         "regex": "\\/releases\\/tag\\/(?:v|V)?([\\d\\.]+)"
