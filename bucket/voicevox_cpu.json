@@ -2,7 +2,7 @@
     "version": "0.17.2",
     "description": "A speech synthesis.",
     "homepage": "https://github.com/VOICEVOX/voicevox",
-    "url": "https://github.com/VOICEVOX/voicevox/releases/download/$version/voicevox-windows-cpu-$version.zip",
+    "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.17.2/voicevox-windows-cpu-0.17.2.zip",
     "hash": "sha512:91b7d3475e1f461a211fab6fa0e7bc7bf917e13b0b59c2e1b91d5a490373ec7ccbdedb594ce6104acf4be3a5b17f988ac94583d8f30dd529a0c1d31eba0e98ef",
     "extract_dir": "VOICEVOX",
     "shortcuts": [
