@@ -12,5 +12,6 @@
             "extract_dir": "Win64/Release"
         }
     },
+    "license": "AGPL-3.0-or-later",
     "checkver": "github"
 }
