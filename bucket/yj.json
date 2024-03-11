@@ -3,8 +3,9 @@
     "description": "Converter from JSON to YAML.",
     "homepage": "https://github.com/sclevine/yj",
     "url": "https://github.com/sclevine/yj/releases/download/v5.1.0/yj.exe",
-    "hash": "b9a3091fa55ec4afd1b6584dbda8568178d4d22536830c6335c766cebfaaccf2",
+    "hash": "sha512:34f5c1ef934fd5ff87a64af15eb2b8af14015f06c2b05e29bb37ddaa3ee74216843cb2f92bfcdcfb909fcdcfa422cfcf69118fe38d7f671eba3d5fdbba057e54",
     "bin": [
         "yj.exe"
-    ]
+    ],
+    "checkver": "github"
 }
