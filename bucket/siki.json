@@ -6,12 +6,12 @@
     "architecture": {
         "32bit": {
             "url": "https://sikiapp.net/archives/0.28.7/Siki-win32-ia32-0.28.7.zip",
-            "hash": "sha512:ed9731f3cc65595b15abffb2ce1c272e01fae916c281e7a07f7d29de0285d64e32f432894b5296cd18a22e73bb77f2d1f9de5bd36cbe2142b6aec7be782ec5ea",
+            "hash": "sha512:889950017ada66afa68084612cdf0dceb0a19ca77d4bc76600ab441224bf97f9ed1aafa1dc9e20336a5a4ae3f3a1eb2a5c861f980e1ef460f9383def8b8d2359",
             "extract_dir": "Siki-win32-ia32"
         },
         "64bit": {
             "url": "https://sikiapp.net/archives/0.28.7/Siki-win32-x64-0.28.7.zip",
-            "hash": "sha512:484a920b9c1377a5bf9185457a87b2436e571b09ab039347ebf06957fc4e391bb29a7166eac8997a702b2097a2af029ede40b79d97cde2529bec269afd09c92e",
+            "hash": "sha512:0f7a260688d9e6f076257e16aae6e6fb43f4c996b977e9f46a47af40a00845cc056db31c420853aea71c5635d19811ca9bd8ec2ed0ea3d0d2216a13862d1a2fd",
             "extract_dir": "Siki-win32-x64"
         }
     },
