@@ -1,17 +1,17 @@
 {
-    "version": "0.28.6",
+    "version": "0.28.7",
     "description": "5ch viewer",
     "homepage": "https://sikiapp.net/",
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://sikiapp.net/archives/0.28.6/Siki-win32-ia32-0.28.6.zip",
-            "hash": "sha512:b8803111a8876988fd5cb0421639aa03cd55746147531c7fdc4deb12933c05adfbaa6a11c8d1e66afd885a1cec04efbcb6204f56c5700ec27e8e3d1d1eb98a46",
+            "url": "https://sikiapp.net/archives/0.28.7/Siki-win32-ia32-0.28.7.zip",
+            "hash": "sha512:ed9731f3cc65595b15abffb2ce1c272e01fae916c281e7a07f7d29de0285d64e32f432894b5296cd18a22e73bb77f2d1f9de5bd36cbe2142b6aec7be782ec5ea",
             "extract_dir": "Siki-win32-ia32"
         },
         "64bit": {
-            "url": "https://sikiapp.net/archives/0.28.6/Siki-win32-x64-0.28.6.zip",
-            "hash": "sha512:5158afbc13d977a98549ca2eff21dea064713a113ea5a55d682aeb6fd2bec63f80d946ad4908cc3e178cb1ead525d68f743ec1aa951217352d3a37c7d72e50ba",
+            "url": "https://sikiapp.net/archives/0.28.7/Siki-win32-x64-0.28.7.zip",
+            "hash": "sha512:484a920b9c1377a5bf9185457a87b2436e571b09ab039347ebf06957fc4e391bb29a7166eac8997a702b2097a2af029ede40b79d97cde2529bec269afd09c92e",
             "extract_dir": "Siki-win32-x64"
         }
     },
