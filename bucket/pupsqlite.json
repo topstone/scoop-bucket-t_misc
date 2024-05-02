@@ -5,11 +5,11 @@
     "architecture": {
         "32bit": {
             "url": "https://www.dropbox.com/s/l7slsrkg523fdlw/pupsqlite32_ver_2001001.zip?dl=1",
-            "hash": "6ebc4856a5ba93674b1d5aa36afe648724f8c08396a7ba4a02c5c55f6ee4bfbc"
+            "hash": "sha512:bbbedb7ef8ca5180e28ec6b398195686de415cd4c33454f9b4b21921933744515656ef47f08e1011d49ea575b3b949c173bb5389cb925c93f36c28db4f41535b"
         },
         "64bit": {
             "url": "https://www.dropbox.com/s/osdjzws0hxp1h0d/pupsqlite64_ver_2001001.zip?dl=1",
-            "hash": "66dbbd4a47ece511d43dcb665fbaf690f24754fe590207fb52e4fe2514b4ef0c"
+            "hash": "sha512:5c036d2f1ac02761c717ade94a408eb845ee364ab08bf24b61e7f8c0b203fbac9970fb6d70ff8fb83a2a801b2fcedd96f26c4c6215ad11342f03966fb769a895"
         }
     },
     "depends": [
@@ -20,9 +20,5 @@
             "PupSQLite.exe",
             "PupSQLite"
         ]
-    ],
-    "checkver": {
-        "url": "https://www.eonet.ne.jp/~pup/software.html",
-        "regex": "<span class=\"version\">ver ([\\d\\.]+)<span></h3>"
-    }
+    ]
 }
