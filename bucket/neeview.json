@@ -1,17 +1,17 @@
 {
-    "version": "40.7",
+    "version": "41.0",
     "description": "Image viewer",
     "homepage": "https://bitbucket.org/neelabo/neeview/wiki/Home",
     "architecture": {
         "32bit": {
             "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView39.5-x86.zip",
-            "hash": "2994cde545f503717f1d4bd116e7c044c479f4f23ee56b4b12ab61727e150c36",
+            "hash": "sha512:2345767bfdd838a4aa6254089f1ffdf82a9a002314527da7deacb6fd5bfe40b76bb2f9f5c067286e54ec2d5233d00069b2d2e76f2abde10e68630f876f9951e76",
             "extract_dir": "NeeView39.5-x86"
         },
         "64bit": {
-            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView40.7-fd.zip",
-            "hash": "d6ef4ed0bf3c19edcb8280e7deaadbe4a456c9360b7c8654ad94633dac6d6f99",
-            "extract_dir": "NeeView40.7-x64-fd"
+            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView41.0-fd.zip",
+            "hash": "sha512:46a61ebf634b9136a86658bbfd17712e6c4524caff06d08fc3e7cdd07639578b144c6057b8987f3aeb3909249533eec93571f1e2fc11441955d640a677c1a5c9",
+            "extract_dir": "NeeView41.0-x64-fd"
         }
     },
     "pre_install": [
