@@ -1,5 +1,5 @@
 {
-    "version": "41.2",
+    "version": "41.3",
     "description": "Image viewer",
     "homepage": "https://bitbucket.org/neelabo/neeview/wiki/Home",
     "architecture": {
@@ -9,9 +9,9 @@
             "extract_dir": "NeeView39.5-x86"
         },
         "64bit": {
-            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView41.2-fd.zip",
-            "hash": "sha512:297ef639ecd369c3d45a7d63a1a02e2c8abbdad45b3536f1792bb4d0624d9e4fda61c01fc971442696ff7fc5eb1b41180d68bc290ddbef868e7c53df6cc82524",
-            "extract_dir": "NeeView41.2-fd"
+            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView41.3-fd.zip",
+            "hash": "sha512:f076acd177050780c1a0d65fd5d28506f4fde90c6501bea7a78e750bf45a965e59bd7a502d1cadb197b1b5c84967ee6b723e169db0e8ad45b782371501631aee",
+            "extract_dir": "NeeView41.3-fd"
         }
     },
     "pre_install": [
