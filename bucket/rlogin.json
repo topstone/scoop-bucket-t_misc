@@ -1,15 +1,15 @@
 {
-    "version": "2.29.6",
+    "version": "2.29.7",
     "description": "A Terminal software",
     "homepage": "https://github.com/kmiya-culti/RLogin",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/user-attachments/files/16326137/rlogin_x32.zip",
-            "hash": "sha512:a96cb9a5ee46b465ccf36d3452e12dfe948838214e4702dc667c1772275dab6cd46e04d64b932f89bd03428077d9cfad3f9f979f4d7a88d3d5399833f02b933c"
+            "url": "https://github.com/user-attachments/files/16719546/rlogin_x32.zip",
+            "hash": "sha512:19607d5323121cc55daf835bb56ef4d3407afff10ca325b7c487d0b7f7dfda7880fe55de316850d9a19b8949db0ccad5d04f214d6323ee2d9f5d75117842d2fa"
         },
         "64bit": {
-            "url": "https://github.com/user-attachments/files/16326138/rlogin_x64.zip",
-            "hash": "sha512:2d9ade70f1812b02ecdcc00d3968998d2892abf7aa9bbff760aa9c01ff52d871851a22e205e4aeee79298ce910f903ba443ddb6d18da2e85b8376b8ffb2e33c5"
+            "url": "https://github.com/user-attachments/files/16719549/rlogin_x64.zip",
+            "hash": "sha512:0293400bc671945420ffd8631ce5cfc3cbee7b3728f20c6886dac63736c6f7463e6497623423a905f6a439ab99300badb2fe6464d2bddf289b5236406b3aeab1"
         }
     },
     "shortcuts": [
