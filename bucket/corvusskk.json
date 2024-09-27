@@ -1,0 +1,10 @@
+{
+    "version": "3.3.0",
+    "description": "Japanese FrontEnd Proccessor.",
+    "homepage": "https://nathancorvussolis.github.io/",
+    "url": "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.0/corvusskk-3.3.0.exe",
+    "hash": "sha512:12e167411c9ab19679757da365043443731f44f01d7beab0275722ea7006e7d10349b2f717c419dccbe802b5f4eee5d0dc93da05a4b29098fa4709a2dc678162",
+    "checkver": {
+        "github": "https://github.com/nathancorvussolis/corvusskk"
+    }
+}
