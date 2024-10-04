@@ -4,7 +4,7 @@
     "homepage": "https://tagumahi.fanbox.cc/",
     "url": "https://ftp.vector.co.jp/77/22/3371/nm074.zip",
     "hash": "sha512:c943813dd30266dfdfbbc366ca35bf9a3fa7e0bf338ffc85b8411368d9ebcefe5dc0fe11921afc5ffd3355b1fcc636bfb2010250dbed3af2839f69cc25b6934d",
-    "extract_dir": "n_ma074",
+    "extract_dir": "nm074",
     "shortcuts": [
         [
             "なんとなく麻雀.exe",
