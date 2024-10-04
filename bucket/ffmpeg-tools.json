@@ -6,5 +6,5 @@
     "url": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-tools-2022-01-01-git-d6b2357edd.zip",
     "hash": "1cd470e40dd66f135df15a01c37152ee79a066a4f958012493c430c61bdd8d52",
     "extract_dir": "ffmpeg-tools-2022-01-01-git-d6b2357edd",
-    "env_add_path": "bin",
+    "env_add_path": "bin"
 }
