@@ -6,11 +6,11 @@
     "architecture": {
         "32bit": {
             "url": "https://www.sqlite.org/2024/sqlite-dll-win-x86-3470000.zip",
-            "hash": "sha512:38d8108acbe6357be6cc6a7cbc4f41f29c91f101b0f6e0a8574d40af6085ffcca84ebdd766ac104043ed03b456f47cfe69eb4b9bff56a0ccc1b38c71f881f6cf"
+            "hash": "sha512:38D8108ACBE6357BE6CC6A7CBC4F41F29C91F101B0F6E0A8574D40AF6085FFCCA84EBDD766AC104043ED03B456F47CFE69EB4B9BFF56A0CCC1B38C71F881F6CF"
         },
         "64bit": {
             "url": "https://www.sqlite.org/2024/sqlite-dll-win-x64-3470000.zip",
-            "hash": "sha512:3f782baeafd1695158482ef3148b5b6e116ce368269713af3a6d0fc0c62b9dfd7f6367a5b85177f3f5aabd3f9778b173cbe31b4f67256b8747fdda8015bf34d4"
+            "hash": "sha512:932D2E4D47F8980AF11B588F08936CFE2874FC58E16ED5D24787BC0B05C8049B1FC7B77FD3DB53508182DF61A3B6E6A9AFD5381149DF18D37C98A83FFA5BB497"
         }
     },
     "checkver": {
