@@ -5,7 +5,8 @@
     "url": "https://github.com/topstone/mecab/releases/download/v0.996/MeCab-win-utf8-0.996.7z",
     "hash": "141c6d2a09693ae7d5c8927c43a7dac495263bdbfdb93825ddd60aa7b1e22129",
     "env_set": {
-        "MECABRC": "$dir\\etc\\mecabrc"
+        "MECABRC": "$dir\\etc\\mecabrc",
+        "MECAB_PATH": "$dir\\bin"
     },
     "bin": [
         "bin/mecab.exe",
