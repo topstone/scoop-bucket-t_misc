@@ -3,7 +3,7 @@
     "description": "Converter from Aozora Bunko to ePub 3.",
     "homepage": "https://github.com/kyukyunyorituryo/AozoraEpub3",
     "url": "https://github.com/kyukyunyorituryo/AozoraEpub3/releases/download/v1.1.1b30Q/AozoraEpub3-1.1.1b30Q.zip",
-    "hash": "sha512:d7a203d293d46de4255bc0dc1822fea00a2894c80c38dd4569ff84d10b7ef9704e351263ef10960c7594ae00703de0b6b7271800c2ca89c236b0e675e2e3bb9e",
+    "hash": "sha512:33f90c79e00d6b9c50a2a7ae7be7c7f220e01c8f4ed9bbfa1542c7c5ce1f8cc09ff7399248b4ceb8035be3e4941bddc27289462d7461ef601e6ab19c7cfea759",
     "checkver": {
         "github": "https://github.com/kyukyunyorituryo/AozoraEpub3",
         "regex": "\\/releases\\/tag\\/(?:v|V)?([\\d\\.]+b[\\d]+Q)"
