@@ -1,16 +1,16 @@
 {
-    "version": "3.47.1",
+    "version": "3.47.2",
     "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
     "homepage": "https://www.sqlite.org/",
     "license": "blessing",
     "architecture": {
         "32bit": {
-            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x86-3470100.zip",
-            "hash": "sha512:e73400783332d113afb4d2b3f60822a095c36e92beefa69fd172adeeff33b08057e32bc57bd577b93d58fe0cf1b41e8c063a34a2f6b875580e1d8a7ca8d8a419"
+            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x86-3470200.zip",
+            "hash": "sha512:86ae778a25f1784cbd4006996b3311e367353fb1c048d60295b28757137adac01a1ced28f82074be601095419032fecb323c7c6a71d603797d9ed406ec9b23ad"
         },
         "64bit": {
-            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x64-3470100.zip",
-            "hash": "sha512:6cc57e09e65c1ec8d1062b7357900e5e4378fea1ba1fdc86a01060cb2557286a247f977496831975f1159ff67973cccadd24775c73382a2619c0893bfd9bc0be"
+            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x64-3470200.zip",
+            "hash": "sha512:223a15c01b483b8e79371d1265993918f1b4ea90175f4c464e3df5540279f97145f68fcf7cef09c4d12b286cd273cbcaca01fe8c3f20cc5ddce7f287009968f8"
         }
     },
     "checkver": {
