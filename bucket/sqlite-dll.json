@@ -5,11 +5,11 @@
     "license": "blessing",
     "architecture": {
         "32bit": {
-            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x86-3470200.zip",
+            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x86-3480000.zip",
             "hash": "sha512:0f3413e9c9239e82448ddba43e844dbc652cfdd436566685106f836c7455e952332f236edc1a9ba4054b0eba6990f113f310443bc368a7f82ea9bf8eb5eeb39c"
         },
         "64bit": {
-            "url": "https://www.sqlite.org/2024/sqlite-dll-win-x64-3470200.zip",
+            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x64-3480000.zip",
             "hash": "sha512:b6cd86e8694a1b70aceeb3afece3965807b91193e34926d4959d1601357c7811fb1aeee45be2ddbd7a3a927d83838988c6b52d7f10a962589b9a6a814e2ff0c3"
         }
     },
