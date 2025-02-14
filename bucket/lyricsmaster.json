@@ -1,0 +1,14 @@
+{
+    "version": "2.5.5.1",
+    "description": "Lyrics finder.",
+    "homepage": "http://www.kenichimaehashi.com/lyricsmaster/",
+    "url": "http://www.kenichimaehashi.com/lyricsmaster/download/LyricsMaster2551.zip",
+    "hash": "sha512:4be5f79fab125d29959bb6977ed56d3d9fed9c7f4f6f5b416c66fd1032f69eaf026490eaa72e8ef0155d9eb92428a2a0cc97f3f9454fcbd0680055d15a9e5643",
+    "extract_dir": "Lyrics Master",
+    "shortcuts": [
+        [
+            "LyricsMaster.exe",
+            "Lyrics Master"
+        ]
+    ]
+}
