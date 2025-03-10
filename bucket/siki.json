@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://sikiapp.net/archives/0.33.10/Siki-win32-ia32-$version.zip"
+                "url": "https://sikiapp.net/archives/$version/Siki-win32-ia32-$version.zip"
             },
             "64bit": {
-                "url": "https://sikiapp.net/archives/0.33.10/Siki-win32-x64-$version.zip"
+                "url": "https://sikiapp.net/archives/$version/Siki-win32-x64-$version.zip"
             }
         }
     }
