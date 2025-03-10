@@ -22,5 +22,15 @@
     "checkver": {
         "url": "https://www.asukaze.net/soft/cassava/",
         "regex": "<a href=\"arc/Cassava[\\d_]+_64\\.zip\">Ver\\.([\\d\\.]+) \\(64 bit\\) \\([\\d\\.]+ MB\\)</a>"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://www.asukaze.net/soft/cassava/arc/Cassava$underscoreVersion.zip"
+            },
+            "64bit": {
+                "url": "https://www.asukaze.net/soft/cassava/arc/Cassava$underscoreVersion_64.zip"
+            }
+        }
     }
 }
