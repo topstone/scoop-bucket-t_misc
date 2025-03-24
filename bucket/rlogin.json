@@ -4,11 +4,11 @@
     "homepage": "https://github.com/kmiya-culti/RLogin",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/user-attachments/files/18934202/rlogin_x32.zip",
+            "url": "https://github.com/user-attachments/files/19411954/rlogin_x32.zip",
             "hash": "sha512:e2c06a0200bcf77ebf3cc3690330ddb273eea63f61ee2ee3060f1b8d2e51d449a53ff8a5da095d2799720339dfaae7bf1c6b8a1d6024c18d02083aa1a41b511d"
         },
         "64bit": {
-            "url": "https://github.com/user-attachments/files/18934203/rlogin_x64.zip",
+            "url": "https://github.com/user-attachments/files/19411955/rlogin_x64.zip",
             "hash": "sha512:91c8c15212d84e9ec57c2633ef64b45f1c0d1cc9d6439d9e94f1f63b98fd2493442752b3917aafff6cb37777dadb521728bddcfb4bf4bb00c0177f52725c6e88"
         }
     },
@@ -18,5 +18,15 @@
             "RLogin"
         ]
     ],
-    "checkver": "github"
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/kmiya-culti/RLogin/releases/download/$version/rlogin_x32.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/kmiya-culti/RLogin/releases/download/$version/rlogin_x64.zip"
+            }
+        }
+    }
 }
