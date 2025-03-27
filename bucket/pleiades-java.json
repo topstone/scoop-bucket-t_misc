@@ -13,7 +13,7 @@
         "$exe = \"$dir\\pleiades-2025-03-java-win-64bit-jre_$version\"",
         "Invoke-Expression \"7z x `\"$exe.exe`\" -o`\"$dir`\" -y | Out-Null\"",
         "Remove-Item \"$exe.exe\"",
-        "Remove-Item \"$exe\"",
+        "Remove-Item \"$exe\""
     ],
     "shortcuts": [
         [
