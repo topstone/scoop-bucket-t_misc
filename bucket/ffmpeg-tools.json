@@ -1,10 +1,10 @@
 {
-    "version": "2022-01-01-git-d6b2357edd",
+    "version": "2025-01-01-git-d3aa99a4f4",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
-    "homepage": "https://ffmpeg.org",
+    "homepage": "https://www.gyan.dev/ffmpeg/builds/",
     "license": "LGPL-3.0-or-later",
-    "url": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-tools-2022-01-01-git-d6b2357edd.zip",
-    "hash": "1cd470e40dd66f135df15a01c37152ee79a066a4f958012493c430c61bdd8d52",
-    "extract_dir": "ffmpeg-tools-2022-01-01-git-d6b2357edd",
+    "url": "https://github.com/GyanD/codexffmpeg/releases/download/tools-2025-01-01-git-d3aa99a4f4/ffmpeg-tools-2025-01-01-git-d3aa99a4f4.zip",
+    "hash": "sha512:c1cb3dd0c202f1ff4066fc5f3d8223f584ee77a680cdf1e70e30164943bcc43c6163ab5d21207d67f73f7d74591db54eff159cac6992cad7ac152e791ac532b5",
+    "extract_dir": "ffmpeg-tools-2025-01-01-git-d3aa99a4f4",
     "env_add_path": "bin"
 }
