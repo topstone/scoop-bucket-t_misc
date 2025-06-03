@@ -1,20 +1,30 @@
 {
-    "version": "3.49.2",
+    "version": "3.50.0",
     "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
     "homepage": "https://www.sqlite.org/",
     "license": "blessing",
     "architecture": {
         "32bit": {
-            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x86-3490200.zip",
-            "hash": "sha512:ea035be177b19c733d84b76e8f252cd372ce57b027fc864e211f286f28218a62430631de3d7d393b9587ae888625e636d2961ed431b21bc4467657b4458feb80"
+            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x86-3500000.zip",
+            "hash": "965052d683a6797ceceabd6ebb142063fb4222d8f670ee05083ceaf9a4588643"
         },
         "64bit": {
-            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x64-3490200.zip",
-            "hash": "sha512:86391ac532330e61dd265ec60ee6f5a47b202b832b5099c13218fb9257f2d0d1a0ace5bb54d1c0d9bfde72b288cec9e66ac00158c8941f4db03122a01c9e0a1a"
+            "url": "https://www.sqlite.org/2025/sqlite-dll-win-x64-3500000.zip",
+            "hash": "126c0035c0b2a1b6db70ef31bd231c68051a0be070cb0df8fe85959938c6540c"
         }
     },
     "checkver": {
-        "url": "https://www.sqlite.org/index.html",
-        "regex": "<a href=\"releaselog/[\\d_]+\\.html\">Version ([\\d\\.]+)</a> \\([\\d\\-]+\\)\\."
+        "url": "https://www.sqlite.org/download.html",
+        "regex": "(?sm)\\d+-bit DLL \\(x\\d+\\) for SQLite version ([\\d.]+)\\..*?(?<year>\\d+)/sqlite-tools-win-x64-(?<clean>\\d+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://www.sqlite.org/$matchYear/sqlite-dll-win-x86-$matchClean.zip"
+            },
+            "64bit": {
+                "url": "https://www.sqlite.org/$matchYear/sqlite-dll-win-x64-$matchClean.zip"
+            }
+        }
     }
 }
