@@ -12,13 +12,13 @@
             "hash": "sha512:5c036d2f1ac02761c717ade94a408eb845ee364ab08bf24b61e7f8c0b203fbac9970fb6d70ff8fb83a2a801b2fcedd96f26c4c6215ad11342f03966fb769a895"
         }
     },
-    "depends": [
-        "sqlite"
-    ],
     "shortcuts": [
         [
             "PupSQLite.exe",
             "PupSQLite"
         ]
+    ],
+    "depends": [
+        "sqlite"
     ]
 }
