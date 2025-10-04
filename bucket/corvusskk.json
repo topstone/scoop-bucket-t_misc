@@ -1,9 +1,9 @@
 {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "description": "Japanese FrontEnd Proccessor.",
     "homepage": "https://nathancorvussolis.github.io/",
     "url": [
-        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.0/corvusskk-3.3.0.exe",
+        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.1/corvusskk-3.3.1.exe",
         "https://skk-dev.github.io/dict/SKK-JISYO.L.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.jinmei.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.fullname.gz",
@@ -11,7 +11,7 @@
         "https://skk-dev.github.io/dict/SKK-JISYO.propernoun.gz"
     ],
     "hash": [
-        "sha512:12e167411c9ab19679757da365043443731f44f01d7beab0275722ea7006e7d10349b2f717c419dccbe802b5f4eee5d0dc93da05a4b29098fa4709a2dc678162",
+        "sha512:34957994e72e65fd74f24fb8dece5b2f605feb85db04cd4a16cb10c4cb91b08e4ac1380643a8b628f8738b2f711c3383a5f703e7394c186c8db180494d848dc0",
         "sha512:d2ba651cdec5d8ff22c0d8e66d2e2c87a289f139a8a5bb3719a7634fe2631498d83d32ab9c5ebbaaf42a32ce7e413f9141030f7882f5b78c7640dcd30f680917",
         "sha512:3967ce863a94f592a26567ede7aca18eb9362b0b83dec8fad966fdf632ba0d69aa4e3832bf2b8a6ef66f2ec966fc5800f369c049f3d3e72781d74554f6d2a3b3",
         "sha512:86d34e051ba0da8f66dd67d40d4e114d48e0b4c6755cc422fff57c76ee2d32b981c6db9c27cb7f46365f644dd0657964d4a0cb1eaf363658c3a88b9db7483869",
