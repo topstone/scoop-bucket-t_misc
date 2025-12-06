@@ -31,7 +31,8 @@
     ],
     "checkver": {
         "url": "https://micco.blog/mysoft/lhmelt.htm",
-        "regex": "<strong>Ver ([\\d]+)\\.([\\d]+)</strong>"
+        "regex": "<strong>Ver ([\\d]+)\\.([\\d]{2})</strong>",
+        "replace": "${1}.${2}"
     },
     "autoupdate": {
         "url": "https://micco.blog/dlfile/LMEL$match1$match2.EXE#/LMEL$match1$match2.lzh"
