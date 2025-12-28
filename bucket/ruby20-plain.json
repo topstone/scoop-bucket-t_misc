@@ -1,8 +1,13 @@
 {
-    "version": "2.0.0-p648",
-    "description": "A dynamic programming language with a focus on simplicity and productivity.",
+    "version": "2.0.0-p648-1",
+    "description": "Ruby, a dynamic programming language with a focus on simplicity and productivity. (version 2.0)",
     "homepage": "https://rubyinstaller.org",
     "license": "BSD-3-Clause",
+    "notes": "Install MSYS2 via 'scoop install msys2' and then run 'ridk install' to install the toolchain!",
+    "depends": [
+        "ruby-plain-base",
+        "msys2"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/ruby-2.0.0-p648-x64-mingw32.7z",
@@ -14,5 +19,11 @@
             "hash": "0a9c61ba46e37d36cb5efdc5957af1ec352729ec75d3aa5c020d1581a67ee636",
             "extract_dir": "ruby-2.0.0-p648-i386-mingw32"
         }
-    }
+    },
+    "post_install": [
+        "Move-Item -Path \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\\*\" -Destination \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\" -Force",
+        "Remove-Item \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\" -Force",
+        "New-Item -ItemType Junction -Path \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\" -Target \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\""
+    ],
+    "pre_uninstall": "Remove-Item \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\""
 }
