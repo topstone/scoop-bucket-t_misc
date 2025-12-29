@@ -23,7 +23,8 @@
     "post_install": [
         "Move-Item -Path \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\\*\" -Destination \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\" -Force",
         "Remove-Item \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\" -Force",
-        "New-Item -ItemType Junction -Path \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\" -Target \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\""
+        "New-Item -ItemType Junction -Path \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\" -Target \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\"",
+        "$dir\\gem.cmd ..\\..\\ruby-plain-base\\current\\rubygems-update-2.7.11.gem"
     ],
     "pre_uninstall": "Remove-Item \"$dir\\lib\\ruby\\gems\\2.0.0\\cache\""
 }
