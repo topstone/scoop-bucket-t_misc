@@ -1,6 +1,6 @@
 {
-    "version": "1.9.3-p551",
-    "description": "Ruby, a dynamic programming language with a focus on simplicity and productivity. (version 1.9)",
+    "version": "1.8.7-p374",
+    "description": "Ruby, a dynamic programming language with a focus on simplicity and productivity. (version 1.8)",
     "homepage": "https://rubyinstaller.org",
     "license": "BSD-3-Clause",
     "notes": "If you want to use DevKit, See: https://www.ruby.or.jp/ja/tech/install/web_application/install",
@@ -8,9 +8,9 @@
         "ruby-plain-base",
         "ruby-devkit-tdm32"
     ],
-    "url": "https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p551/ruby-1.9.3-p551-i386-mingw32.7z",
+    "url": "https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p374/ruby-1.8.7-p374-i386-mingw32.7z",
     "hash": "207fdb5b2f9436ad1ac27bf51918b913c14c443d1b83cd910cf5a59acaeab756",
-    "extract_dir": "ruby-1.9.3-p551-i386-mingw32",
+    "extract_dir": "ruby-1.8.7-p374-i386-mingw32",
     "post_install": [
         "Move-Item -Path \"$dir\\lib\\ruby\\gems\\1.9.1\\cache\\*\" -Destination \"$dir\\..\\..\\..\\persist\\ruby-plain-base\\gem_cache\" -Force",
         "Remove-Item \"$dir\\lib\\ruby\\gems\\1.9.1\\cache\" -Force",
