@@ -1,9 +1,10 @@
 {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "description": "Japanese FrontEnd Proccessor.",
     "homepage": "https://nathancorvussolis.github.io/",
+    "license": "MIT",
     "url": [
-        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.1/corvusskk-3.3.1.exe",
+        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.2/corvusskk-3.3.2.exe",
         "https://skk-dev.github.io/dict/SKK-JISYO.L.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.jinmei.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.fullname.gz",
@@ -11,14 +12,27 @@
         "https://skk-dev.github.io/dict/SKK-JISYO.propernoun.gz"
     ],
     "hash": [
-        "sha512:34957994e72e65fd74f24fb8dece5b2f605feb85db04cd4a16cb10c4cb91b08e4ac1380643a8b628f8738b2f711c3383a5f703e7394c186c8db180494d848dc0",
-        "sha512:d2ba651cdec5d8ff22c0d8e66d2e2c87a289f139a8a5bb3719a7634fe2631498d83d32ab9c5ebbaaf42a32ce7e413f9141030f7882f5b78c7640dcd30f680917",
-        "sha512:3967ce863a94f592a26567ede7aca18eb9362b0b83dec8fad966fdf632ba0d69aa4e3832bf2b8a6ef66f2ec966fc5800f369c049f3d3e72781d74554f6d2a3b3",
-        "sha512:86d34e051ba0da8f66dd67d40d4e114d48e0b4c6755cc422fff57c76ee2d32b981c6db9c27cb7f46365f644dd0657964d4a0cb1eaf363658c3a88b9db7483869",
-        "sha512:b2cf0433e1e2a6b9f62cb64a937c9f6629f8d8af53902e391ae095a1b2b879074f91f8caf3b0b9e003ed4bb0012bc32ae76cf43682471706f560a19c39537499",
-        "sha512:0f4fe062ad7de943ee0b17c50b6be62c4fdae83d88a2bcf6c976bcacc2c742b4ca677233210fafc478e16364cc4d92dfef8e07c510c00b5f5e20d44b084fc078"
+        "c2374f934bca2266d38fc7c91dfd3af275b4f8893bd5a04e3b0db1b9d1dbf6ed",
+        "4236e1ae2ba667520922fc5aa406f77d8e30f3590421d34f41f46af641bb48aa",
+        "4f6f65939824415d2d7dab8469c044a2f4bc4122808e4482cbb9085675005164",
+        "09f868bd2102420cdfed15742080dd936dafafbb825e1fe96126f7321c66764d",
+        "80d80b2e2a7bcaa28ac86935595cd0461f38f31b3b1226e4145a4fe63d038783",
+        "7ea4e8fad58ae67f0d09e72870ca25933bf2d215a783802d1a1b382b2116a9d2"
     ],
     "checkver": {
         "github": "https://github.com/nathancorvussolis/corvusskk"
+    },
+    "autoupdate": {
+        "url": [
+            "https://github.com/nathancorvussolis/corvusskk/releases/download/$version/corvusskk-$version.exe",
+            "https://skk-dev.github.io/dict/SKK-JISYO.L.gz",
+            "https://skk-dev.github.io/dict/SKK-JISYO.jinmei.gz",
+            "https://skk-dev.github.io/dict/SKK-JISYO.fullname.gz",
+            "https://skk-dev.github.io/dict/SKK-JISYO.geo.gz",
+            "https://skk-dev.github.io/dict/SKK-JISYO.propernoun.gz"
+        ],
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
     }
 }
