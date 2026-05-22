@@ -18,7 +18,5 @@
             "PupSQLite"
         ]
     ],
-    "depends": [
-        "sqlite"
-    ]
+    "depends": "sqlite"
 }
