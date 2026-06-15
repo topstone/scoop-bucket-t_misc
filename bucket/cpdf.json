@@ -1,5 +1,5 @@
 {
-    "version": "2.9",
+    "version": "2.9.1",
     "description": "Powerful, free tools to manipulate PDF files. (Non-Commercial Use License)",
     "homepage": "https://community.coherentpdf.com/",
     "license": "AGPL-3.0",
@@ -16,7 +16,7 @@
         }
     },
     "url": "https://github.com/coherentgraphics/cpdf-binaries/archive/master.zip",
-    "hash": "d63b50f883503c5c33bbb0b04a380899fd354b9d38edc0027f4fc362831be542",
+    "hash": "de9517e888dea0e3cdc627a2c7cd5bf4f4124aa276e0afd9aed9579027849936",
     "extract_dir": "cpdf-binaries-master",
     "checkver": {
         "url": "https://github.com/coherentgraphics/cpdf-binaries/tags",
