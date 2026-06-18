@@ -9,10 +9,6 @@
         [
             "pdf_as.exe",
             "pdf_as"
-        ],
-        [
-            "Office2Pdf.exe",
-            "pdf_as(Office2Pdf)"
         ]
     ],
     "checkver": {
