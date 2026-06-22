@@ -9,10 +9,10 @@
     ],
     "architecture": {
         "32bit": {
-            "bin": "Windows32bit/cpdf.exe"
+            "bin": "Windows-32bit/cpdf.exe"
         },
         "64bit": {
-            "bin": "Windows64bit/cpdf.exe"
+            "bin": "Windows-64bit/cpdf.exe"
         }
     },
     "url": "https://github.com/coherentgraphics/cpdf-binaries/archive/master.zip",
