@@ -1,10 +1,10 @@
 {
-    "version": "1.64",
+    "version": "1.65",
     "description": "To merge, split PDF files.",
     "homepage": "http://uchijyu.s601.xrea.com/wordpress/pdf_as/",
     "license": "Freeware",
-    "url": "https://ftp.vector.co.jp/78/72/3974/pdfas164.zip",
-    "hash": "601e0e0bfd496b5c2e3072c9ad13e4505ac023a95d53126eec1aa47dd970606c",
+    "url": "https://ftp.vector.co.jp/78/84/3974/pdfas165.zip",
+    "hash": "fa1d2b03bab76b75b6fbfc1eac2cf5194df93721edcff9fda4a812a531b86694",
     "shortcuts": [
         [
             "pdf_as.exe",
