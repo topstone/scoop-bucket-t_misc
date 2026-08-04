@@ -6,7 +6,7 @@
     "depends": "winscp",
     "url": "https://winscp.net/translations/dll/6.5.6/jp.zip",
     "hash": "cfbe6fef0a101d90bb620cf139642b7e4323369e4761d6e764461a4cd3fa6200",
-    "post_install": "Copy-Item -Path \"$dir\\WinSCP.jp\" -Destination \"$appsdir\\winscp\\current\\\" -Force",
+    "post_install": "Copy-Item -Path \"$dir/WinSCP.jp\" -Destination \"$dir/../../winscp/current/\" -Force",
     "checkver": {
         "url": "https://winscp.net/eng/downloads.php",
         "regex": "WinSCP-([\\d.]+)-Portable\\.zip"
