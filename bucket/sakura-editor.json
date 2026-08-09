@@ -1,9 +1,10 @@
 {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "description": "Text editor.",
     "homepage": "https://sakura-editor.github.io/",
-    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.4.2/sakura-tag-v2.4.2-build4203-a3e63915b-Win32-Release-Exe.zip",
-    "hash": "91f2eae7fe3b2417a47ee678463012e030063cf2694fd6c925fbaebc575dd7e8",
+    "license": "Zlib",
+    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.4.3/sakura-tag-v2.4.3-build2916-fe1a4a281-Win32-Release-Exe.zip",
+    "hash": "9973140125159c1615cb1841af2ecf700a87aa3f45c3414b87a0e8c6c864700c",
     "shortcuts": [
         [
             "sakura.exe",
@@ -11,6 +12,10 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/sakura-editor/sakura"
+        "url": "https://api.github.com/repos/sakura-editor/sakura/releases/latest",
+        "regex": "browser_download_url\":\\s*\"(?<url>https://github.com/sakura-editor/sakura/releases/download/v(?<version>[\\d.]+)/sakura-tag-v[\\d.]+-build(?<build>\\d+)-(?<commit>[a-f0-9]+)-Win32-Release-Exe\\.zip)\""
+    },
+    "autoupdate": {
+        "url": "https://github.com/sakura-editor/sakura/releases/download/v$version/sakura-tag-v$version-build$matchBuild-$matchCommit-Win32-Release-Exe.zip"
     }
 }
