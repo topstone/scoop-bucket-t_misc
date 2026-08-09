@@ -1,10 +1,10 @@
 {
-    "version": "3.3.2",
+    "version": "3.3.3",
     "description": "Japanese FrontEnd Proccessor.",
     "homepage": "https://nathancorvussolis.github.io/",
     "license": "MIT",
     "url": [
-        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.2/corvusskk-3.3.2.exe",
+        "https://github.com/nathancorvussolis/corvusskk/releases/download/3.3.3/corvusskk-3.3.3.exe",
         "https://skk-dev.github.io/dict/SKK-JISYO.L.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.jinmei.gz",
         "https://skk-dev.github.io/dict/SKK-JISYO.fullname.gz",
@@ -12,7 +12,7 @@
         "https://skk-dev.github.io/dict/SKK-JISYO.propernoun.gz"
     ],
     "hash": [
-        "c2374f934bca2266d38fc7c91dfd3af275b4f8893bd5a04e3b0db1b9d1dbf6ed",
+        "5f7e277df4993364704f8737a8a19c41637357bac825fadeb93bee81ea638074",
         "4236e1ae2ba667520922fc5aa406f77d8e30f3590421d34f41f46af641bb48aa",
         "4f6f65939824415d2d7dab8469c044a2f4bc4122808e4482cbb9085675005164",
         "09f868bd2102420cdfed15742080dd936dafafbb825e1fe96126f7321c66764d",
