@@ -1,9 +1,9 @@
 {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "description": "Movieclip filter. Created from scratch, integrating AviUtl and ExEdit (Advanced Editing).",
     "homepage": "https://spring-fragrance.mints.ne.jp/aviutl/",
-    "url": "https://spring-fragrance.mints.ne.jp/aviutl/aviutl2_v2.1.4.zip",
-    "hash": "58a8d66cabb32e7411baf94962b990fad62e6388fdc9034c6eec39fa137a8065",
+    "url": "https://spring-fragrance.mints.ne.jp/aviutl/aviutl2_v2.1.5.zip",
+    "hash": "0228e2cfa75cc1bafaf2fa7ce327d9a3afd3932ccdb16b5b1c39104fa51f5868",
     "shortcuts": [
         [
             "aviutl2.exe",
