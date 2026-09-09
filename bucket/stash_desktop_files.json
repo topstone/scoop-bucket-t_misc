@@ -1,8 +1,8 @@
 {
-    "version": "3",
+    "version": "4",
     "description": "Stash files from desktop.",
     "homepage": "https://gist.github.com/topstone/94e73fd93db8d701d5e67c80832fbafc",
-    "url": "https://gist.githubusercontent.com/topstone/94e73fd93db8d701d5e67c80832fbafc/raw/5a80a2c98c54158316302a9151f19a4b5dde5cc6/stash_desktop_files.ps1",
-    "hash": "sha512:8d4a612e3fbd88de86ed3f004264324285291c739dbb1561d5d3d65fe2a1d4e74a9e014599c51041a09442f2aed701842416da6c75c1ca7ccf1716b954d753a3",
+    "url": "https://gist.githubusercontent.com/topstone/94e73fd93db8d701d5e67c80832fbafc/raw/b4e29217e0c4704ee02010d0b6f9862c6fe3c8c7/stash_desktop_files.ps1",
+    "hash": "sha512:67605e5a2e9163e4a7dfd1eff663ca551aac84fc4edea8b3a751054a746823f637cb130e8052d667ad43121ea37f5c36f41a9f02b106b865175b89233a14be1f",
     "bin": "stash_desktop_files.ps1"
 }
