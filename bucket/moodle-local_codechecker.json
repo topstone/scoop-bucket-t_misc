@@ -6,12 +6,14 @@
     "depends": "php",
     "url": "https://github.com/moodlehq/moodle-local_codechecker/archive/refs/tags/v5.2.2.zip",
     "hash": "b35423309e84c7ede21051c2c40b6c76f6bf926d8f8d2da84804beaf5448f008",
-    "extract_dir": "moodle-local_codechecker-5.2.2",
+    "pre_install": [
+        "Move-Item -Path \"$dir\\moodle-local_codechecker-$version\\*\" -Destination \"$dir\" -Force",
+        "Remove-Item -Path \"$dir\\moodle-local_codechecker-$version\" -Recurse -Force"
+    ],
     "checkver": {
         "github": "https://github.com/moodlehq/moodle-local_codechecker"
     },
     "autoupdate": {
-        "url": "https://github.com/moodlehq/moodle-local_codechecker/archive/refs/tags/v$version.zip",
-        "extract_dir": "moodle-local_codechecker-$version"
+        "url": "https://github.com/moodlehq/moodle-local_codechecker/archive/refs/tags/v$version.zip"
     }
 }
